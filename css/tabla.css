@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    
+ 
+
+}
+
+.barnav{
+    height: 30px;
+    background-color: black;
+}
+
+
+.barnav a{
+    margin-left: 10px;
+    line-height: 30px;
+    text-decoration: none;
+    color: white;
+}
+
+.centrarTabla{
+    width: 100%;
+    display: grid;
+    place-content: center;
+}
+
+.tablaTitulo{
+    text-align: left;
+    position: relative;
+    margin-top:40px ;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 80px;
+    background-color: rgb(0, 119, 255);
+}
+
+.tablaTitulo p{
+    margin-top: 25px;
+    margin-left: 10px;
+}

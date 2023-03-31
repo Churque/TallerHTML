@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    
+ 
+
+}
+
+.barnav{
+    height: 30px;
+    background-color: black;
+}
+
+
+.barnav a{
+    margin-left: 10px;
+    line-height: 30px;
+    text-decoration: none;
+    color: white;
+}
+
+.centrarTabla{
+    width: 100%;
+    display: grid;
+    place-content: center;
+}
